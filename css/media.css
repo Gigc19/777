@@ -1,0 +1,254 @@
+@media (max-width: 1024px) {
+  .header-middle-line {
+    display: none;
+  }
+  .bar {
+    display: block;
+    display: flex;
+  }
+  #a {
+    order: 2;
+  }
+  #b {
+    order: 3;
+  }
+  #c {
+    order: 1;
+  }
+  .main-block {
+    height: 813.38px;
+    flex-direction: column-reverse;
+  }
+  .left-block {
+    max-width: 696px;
+    width: 100%;
+    text-align: center;
+  }
+  .left-block-descr {
+    text-align: center;
+    max-width: 696px;
+    width: 100%;
+  }
+  .block-buttons {
+    margin: 0 auto;
+  }
+  .container {
+    max-width: 896px;
+    width: 90%;
+    height: 1026px;
+  }
+  .container-title {
+    width: 100%;
+    height: 256px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    row-gap: 54px;
+  }
+  .just-title {
+    text-align: center;
+  }
+  .just-normal-title {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .item-one {
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+  }
+  .item-one-descr {
+    width: 90%;
+  }
+  .price-descr {
+    height: 92px;
+    flex-wrap: wrap-reverse;
+  }
+  .main-frame {
+    height: 1469px;
+    flex-wrap: wrap;
+  }
+  .right-descr-div {
+    max-width: 842px;
+    width: 90%;
+    margin: 0 auto;
+    height: 580px;
+    text-align: center;
+  }
+  .right-big-title {
+    font-size: 40px;
+  }
+  .about {
+    max-width: 100%;
+  }
+  .cube-one {
+    max-width: 400px;
+  }
+  .cube-two {
+    max-width: 400px;
+  }
+  .main-aguri {
+    height: 866px;
+    margin-top: 100px;
+  }
+  .central-aguri-title {
+    text-align: center;
+  }
+  .footer {
+    height: 674px;
+    flex-wrap: wrap;
+  }
+  .footer-left-div {
+    max-width: 100%;
+  }
+  .footer-right-div {
+    max-width: 100%;
+  }
+}
+@media (max-width: 430px) {
+  .header-middle-line {
+    display: none;
+  }
+  .two-buttons-union {
+    display: none;
+  }
+  #a {
+    order: 1;
+  }
+  #b {
+    order: 2;
+  }
+  .main-block {
+    max-width: 398px;
+    width: 90%;
+    height: 656.52px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .left-block-big-title {
+    font-size: 40px;
+    line-height: 48px;
+  }
+  .left-block {
+    height: 400px;
+  }
+  .left-block-descr {
+    font-size: 16px;
+    line-height: 25.6px;
+  }
+  .right-block {
+    height: 147.52px;
+  }
+  .block-buttons {
+    height: 191px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    row-gap: 14px;
+    align-items: center;
+  }
+  .first {
+    width: 338px;
+    height: 55px;
+    background-color: #5d50c6;
+  }
+  .second {
+    width: 338px;
+    height: 55px;
+  }
+  .container {
+    height: 2054px;
+    flex-direction: column;
+    display: flex;
+    row-gap: 32px;
+  }
+  .products {
+    height: 1789px;
+    flex-wrap: wrap;
+  }
+  .item-one {
+    margin: 0 auto;
+  }
+  .container-title {
+    margin-top: 32px;
+  }
+  .just-buttons {
+    max-width: 370px;
+    display: flex;
+    column-gap: 32px;
+    justify-content: space-between;
+  }
+  .just-red-title {
+    font-size: 16px;
+    line-height: 19.2px;
+  }
+  .just-normal-title {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+  .left-img-div {
+    height: 318.49px;
+  }
+  .main-frame {
+    height: 1351px;
+    margin: 0 auto;
+  }
+  .right-descr-div {
+    height: 905px;
+    text-align: center;
+  }
+  .right-big-title {
+    font-size: 32px;
+    line-height: 38.4px;
+  }
+  .about {
+    height: 652px;
+  }
+  .about-head {
+    height: 318px;
+    flex-wrap: wrap;
+  }
+  .about-body {
+    height: 318px;
+    flex-wrap: wrap;
+  }
+  .main-aguri {
+    height: 1191px;
+  }
+  .central-aguri {
+    height: 1127px;
+  }
+  .body-aguri {
+    height: 886px;
+    margin-top: 200px;
+  }
+  .aguri-one,
+  .aguri-one1 {
+    height: 290px;
+    flex-wrap: wrap;
+    width: 304px;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .sizebi {
+    height: 100px;
+  }
+  .footer-descr {
+    margin: 0;
+  }
+  .footer {
+    height: 554px;
+  }
+  .footer-right-div {
+    flex-direction: column;
+  }
+  .footer-li {
+    display: none;
+  }
+  .footer-li1 {
+    margin-top: 30px;
+  }
+  .icons-div {
+    margin-top: 0px;
+  }
+}
